@@ -8,8 +8,8 @@
 
 # Introduction
 
-### Iris Data Set Project Outline And Objectives
-<div align="justify"> The following project is based on the well-known Fisher’s Tips data set. In this project I will use a .csv file for researching and explaining what the data set is all about and write some Python scripts using the Jupyter and Seaborn Packages to backup my findings. This project will be broken down into three parts and these are as follows</div><br>
+### Tips Data Set Project Outline And Objectives
+<div align="justify"> The following project is based on the well-known Tips data set. In this project I will use a .csv file for researching and explaining what the data set is all about and write scripts using the Jupyter and Seaborn Packages to backup my findings. This project will be broken down into three parts and these are as follows</div><br>
 
 <div align="justify">
 1. <b><i>Description</i></b>: Create a git repository and make it available to view online via GitHub. Within the repository, create a Jupyter notebook that uses descriptive statistics and plots to describe the dataset.<br><br>
@@ -17,17 +17,18 @@
 3. <b><i>Analyse</i></b>: Analyse the relationship between the
 variables within the dataset.
 </div>
+<br><br>
 
 ### How To Run The Tips Dataset
 <div align="justify">
-1. Download Cmder command line or use the command line on your computer.<br><br>
+1. Download the Cmder command line or use the command line on your computer.<br><br>
 2. Go to Github, find my repository or use the following link https://github.com/richardfeeney7/Fundamentals-Project.git. Click on the Clone/Download button and select download zip. <br><br>
 3. Once downloaded go to the command line and navigate to this  download using the cd command. When I download the zip file, I first had to unzip it and cd into it, and within that folder I had another folder that I need to cd into also.<br><br>
 4. Once in the correct location type Jupyter Lab or Jupyter Notebook into the command like. This will open a web server where you can access the files. Depending on the settings this might open Internet Explorer, I would recommend closing that web page and use the web address that you can see in the command line. <br><br>
 5. When you open the web server and can file my project then open the <u><b><i>.ipynb</i></b></u> document to view the project. <br><br>
 6. See the below photo of steps that I took, please note that your machine and downloads might be in a different location. 
 
-<p align ="center"><img src="images/CLI.jpg" alt="Command Line" width="300" height="300" title="CLI"/></p>
+<p align ="center"><img src="images/CLI.JPG" alt="Command Line" width="300" height="300" title="CLI"/></p>
 </div>
 <hr>
 
