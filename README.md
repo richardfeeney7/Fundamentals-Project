@@ -19,6 +19,10 @@ variables within the dataset.
 </div>
 <br><br>
 
+### Link to Project Instructions
+https://github.com/richardfeeney7/Fundamentals-Project/blob/master/Project%20Instructions.pdf
+
+
 ### How To Run The Tips Dataset
 <div align="justify">
 1. Download the Cmder command line or use the command line on your computer.<br><br>
@@ -27,6 +31,7 @@ variables within the dataset.
 4. Once in the correct location type Jupyter Lab or Jupyter Notebook into the command like. This will open a web server where you can access the files. Depending on the settings this might open Internet Explorer, I would recommend closing that web page and use the web address that you can see in the command line. <br><br>
 5. When you open the web server and can file my project then open the <u><b><i>.ipynb</i></b></u> document to view the project. <br><br>
 6. See the below photo of steps that I took, please note that your machine and downloads might be in a different location. 
+7. If you want to view the file on GitHub and it displays that something is wrong please copy the URL and go to https://nbviewer.jupyter.org/ and the URL in the box provided. 
 
 <p align ="center"><img src="images/CLI.JPG" alt="Command Line" width="300" height="300" title="CLI"/></p>
 </div>
