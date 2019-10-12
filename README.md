@@ -35,5 +35,16 @@ https://github.com/richardfeeney7/Fundamentals-Project/blob/master/Project%20Ins
 
 <p align ="center"><img src="images/CLI.JPG" alt="Command Line" width="300" height="300" title="CLI"/></p>
 </div>
+
+### Biobliography
+<div>
+1. Tutorialspoint.com. (2019). Seaborn - Linear Relationships - Tutorialspoint. [online] Available at: https://www.tutorialspoint.com/seaborn/seaborn_linear_relationships.htm [Accessed 12 Oct. 2019].
+2. Tutorialspoint.com. (2019). Seaborn - Facet Grid - Tutorialspoint. [online] Available at: https://www.tutorialspoint.com/seaborn/seaborn_facet_grid.htm [Accessed 12 Oct. 2019].
+ 
+
+
+</div>
+
 <hr>
+
 
