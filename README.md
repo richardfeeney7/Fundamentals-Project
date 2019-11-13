@@ -15,7 +15,8 @@
 1. <b><i>Description</i></b>: Create a git repository and make it available to view online via GitHub. Within the repository, create a Jupyter notebook that uses descriptive statistics and plots to describe the dataset.<br><br>
 2. <b><i>Regression</i></b>: Add a section that discusses and analyses whether there is a relationship between the total bill and tip amount. <br><br>
 3. <b><i>Analyse</i></b>: Analyse the relationship between the
-variables within the dataset.
+variables within the dataset.<br><br>
+4. Profiling, U. and G., T. (2019). Unable to import Pandas Profiling. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/49314314/unable-to-import-pandas-profiling [Accessed 13 Nov. 2019].<br><br>
 </div>
 <br><br>
 
@@ -39,8 +40,9 @@ https://github.com/richardfeeney7/Fundamentals-Project/blob/master/Project%20Ins
 ### Biobliography
 <div align="justify">
 1. Mode Resources. (2019). Pandas .groupby(), Lambda Functions, & Pivot Tables - Mode. [online] Available at: https://mode.com/python-tutorial/pandas-groupby-and-python-lambda-functions [Accessed 12 Oct. 2019].<br><br>
-1. Tutorialspoint.com. (2019). Seaborn - Linear Relationships - Tutorialspoint. [online] Available at: https://www.tutorialspoint.com/seaborn/seaborn_linear_relationships.htm [Accessed 12 Oct. 2019].<br><br>
-1. Tutorialspoint.com. (2019). Seaborn - Facet Grid - Tutorialspoint. [online] Available at: https://www.tutorialspoint.com/seaborn/seaborn_facet_grid.htm [Accessed 12 Oct. 2019].<br><br>
+2. Tutorialspoint.com. (2019). Seaborn - Linear Relationships - Tutorialspoint. [online] Available at: https://www.tutorialspoint.com/seaborn/seaborn_linear_relationships.htm [Accessed 12 Oct. 2019].<br><br>
+3. Tutorialspoint.com. (2019). Seaborn - Facet Grid - Tutorialspoint. [online] Available at: https://www.tutorialspoint.com/seaborn/seaborn_facet_grid.htm [Accessed 12 Oct. 2019].<br><br>
+4. Nair, A. (2019). Methods That Make Data Exploration Easy in Python: Tips And Tricks For Beginners. [online] Analytics India Magazine. Available at: https://analyticsindiamag.com/methods-that-make-data-exploration-easy-in-python-tips-and-tricks-for-beginners/ [Accessed 13 Nov. 2019].<br><br>
 
 </div>
 
