@@ -53,7 +53,8 @@ https://github.com/richardfeeney7/Fundamentals-Project/blob/master/Project%20Ins
 13. Visualization, D. and Python, B. (2019). A Comprehensive Guide to Seaborn in Python. [online] Analytics Vidhya. Available at: https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/ [Accessed 15 Nov. 2019].<br><br>
 14. Pythonbasics.org. (2019). Seaborn Distplot | Python Tutorial. [online] Available at: https://pythonbasics.org/seaborn-distplot/ [Accessed 15 Nov. 2019].<br><br>
 15. Pandas.pydata.org. (2019). pandas.DataFrame.replace — pandas 0.25.3 documentation. [online] Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html [Accessed 15 Nov. 2019].<br><br>
-16. Medium. (2019). Understanding the data splitting functions in scikit-learn. [online] Available at: https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26 [Accessed 15 Nov. 2019].
+16. Medium. (2019). Understanding the data splitting functions in scikit-learn. [online] Available at: https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26 [Accessed 15 Nov. 2019].<br>
+17. The Balance Small Business. (2019). How Simple Linear Regression, Used to Analyze Quantitative Data. [online] Available at: https://www.thebalancesmb.com/what-is-simple-linear-regression-2296697 [Accessed 23 Nov. 2019].<br>
 </div>
 
 <hr>
