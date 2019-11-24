@@ -50,19 +50,13 @@ https://github.com/richardfeeney7/Fundamentals-Project/blob/master/Project%20Ins
 10. Pandas.pydata.org. (2019). pandas.DataFrame.fillna — pandas 0.25.3 documentation. [online] Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html [Accessed 14 Nov. 2019].<br>
 11. Betterevaluation.org. (2019). Visualise data | Better Evaluation. [online] Available at: https://www.betterevaluation.org/en/rainbow_framework/describe/visualise_data [Accessed 14 Nov. 2019].<br>
 12. Valcheva, S. (2019). Bivariate Data Analysis: Examples, Definition, Data Sets Correlation. [online] Business Intelligence, Data Science, and Management. Available at: http://intellspot.com/bivariate-data-examples/ [Accessed 14 Nov. 2019].<br>
-13. Visualization, D. and Python, B. (2019). A Comprehensive Guide to Seaborn in Python. [online] Analytics Vidhya. Available at: https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/ [Accessed 15 Nov. 2019].<br><br>
-<<<<<<< HEAD
+13. Visualization, D. and Python, B. (2019). A Comprehensive Guide to Seaborn in Python. [online] Analytics Vidhya. Available at: https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/ [Accessed 15 Nov. 2019].<br>
 14. Pythonbasics.org. (2019). Seaborn Distplot | Python Tutorial. [online] Available at: https://pythonbasics.org/seaborn-distplot/ [Accessed 15 Nov. 2019].<br><br>
 15. Pandas.pydata.org. (2019). pandas.DataFrame.replace — pandas 0.25.3 documentation. [online] Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html [Accessed 15 Nov. 2019].<br><br>
 16. Medium. (2019). Understanding the data splitting functions in scikit-learn. [online] Available at: https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26 [Accessed 15 Nov. 2019].<br>
 17. The Balance Small Business. (2019). How Simple Linear Regression, Used to Analyze Quantitative Data. [online] Available at: https://www.thebalancesmb.com/what-is-simple-linear-regression-2296697 [Accessed 23 Nov. 2019].<br>
-=======
-14. Pythonbasics.org. (2019). Seaborn Distplot | Python Tutorial. [online] Available at: https://pythonbasics.org/seaborn-distplot/ [Accessed 15 Nov. 2019].<br>
-15. Pandas.pydata.org. (2019). pandas.DataFrame.replace — pandas 0.25.3 documentation. [online] Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html [Accessed 15 Nov. 2019].<br>
-16. Medium. (2019). Understanding the data splitting functions in scikit-learn. [online] Available at: https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26 [Accessed 15 Nov. 2019].
->>>>>>> 4c0ee830050cf4372d6f5514d5d1c97c71c83e19
+18. Pythonbasics.org. (2019). Seaborn Distplot | Python Tutorial. [online] Available at: https://pythonbasics.org/seaborn-distplot/ [Accessed 15 Nov. 2019].<br>
+19. Pandas.pydata.org. (2019). pandas.DataFrame.replace — pandas 0.25.3 documentation. [online] Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html [Accessed 15 Nov. 2019].<br>
+20. Medium. (2019). Understanding the data splitting functions in scikit-learn. [online] Available at: https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26 [Accessed 15 Nov. 2019].
 </div>
-
 <hr>
-
-
